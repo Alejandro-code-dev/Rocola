@@ -1,0 +1,24 @@
+la rocola es un sistema de audio y videos
+en la que tiene un amplio repertorio de musica
+metiendo precio
+permitiendo la interaccion hombre maquina para un
+buen ambiente estudiantil en el cual puedes...
+se puede pausar, poner en cola de espera (maximo 5 minutos de 
+duracion global),
+ 
+sustantivos				Verbos
+Rocola					Pausar
+Sistema					Esperar
+Audio					Reproducir
+Video
+Repertorio 
+Musica
+Precio
+Estudiantil
+Cola
+Duracion
+
+la rocola no puede estar pausada mas de 1 minuto 
+no se pueden borrar las canciones 
+
+   
